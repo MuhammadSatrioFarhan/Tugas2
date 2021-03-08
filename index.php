@@ -11,8 +11,8 @@
 <ul id="navbar">
     <li class="navbara"><a href="index.php">MY WEBSITE</a></li>
     <li class="navbar"><a href="askme.html">Ask Me!</a></li>
-    <li class="navbar"><a class="b" href="about.html">About Me</a></li>
-    <li class="navbar"><a class="b" href="Tugas2.html">My Project</a></li>
+    <li class="navbar"><a href="about.html">About Me</a></li>
+    <li class="navbar"><a href="Tugas2.html">My Project</a></li>
 </ul>
 <div class = "about">
 	<h3>WELCOME TO MY WEBSITE</h3><br>
