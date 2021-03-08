@@ -1,0 +1,154 @@
+* {
+	padding:0;
+	margin:0;
+	font-family: sans-serif;
+}
+
+a {
+	color: inherit;
+	text-decoration: none; 
+}
+
+h3 {
+  font-size:25px;
+}
+
+.column {
+  float: right;
+  width: 75%;
+  padding: 2%;
+  height: 300px;
+  font-size:20px;
+}  
+
+.about {
+	margin : 1%;
+	padding : 2%;
+	background-color: #333333;
+	color: #fff;
+	border-top:3px solid #ff3333;
+	border-radius : 6px;
+}
+
+img {
+	margin : 2% 2%;
+	width: 15%;
+}
+
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    font-size:18px;
+    border-top:3px solid #ff3333;
+}
+
+.navbar {
+    float: right;
+}
+
+.navbar a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 33px 30px;
+    text-decoration: none;
+    font-family: Calibri;
+}
+
+.navbara a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+    font-family: Calibri;
+}
+
+.navbara {
+    float: left;
+    font-size:25px;  
+}
+
+.navbar a:hover {
+    color: #ff3333;
+    transition: .8s;
+}
+
+.medsos {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #ff3333;
+}
+
+.medsosa{
+	float : right;
+	display: inline-block;
+	color: white;
+	margin-right: 20px;
+
+}
+
+.sosa{
+  list-style-type: none;
+  margin-left: 35%;
+  float : left;
+  color: white;
+  font-size:15px;
+
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.my {
+  border: 1px solid #dddddd;
+  text-align:left ;
+  padding: 8px;
+}
+
+.my1 {
+  background-color: #ff3333;
+  border: 1px solid #dddddd;
+  text-align:left ;
+  padding: 8px;
+}
+
+.nama input[type=text] {
+	width:95%;
+	padding:10px 10px;
+	margin:5px;
+	border-radius:5px;
+}
+
+.email input[type=text] {
+	width:95%;
+	padding:10px 10px;
+	margin:5px;
+	border-radius:5px;
+}
+
+.submit input[type=submit] {
+	float :center;
+	width:30%;
+	color:white;
+	background-color:#333333;
+	padding:15px 15px;
+	margin:0.5% 0.5%;
+	border-radius:5px;
+}
+
+.alamat textarea {
+	width:95%;
+	padding:10px 10px;
+	margin:5px;
+	border-radius:5px;
+}
